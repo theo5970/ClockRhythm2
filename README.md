@@ -19,6 +19,10 @@
 |Desert Background|[Free Art Background](https://freeartbackgrounds.com/?1162%2Cdesert-background=)|
 |Church garden in spring|[Suwalls](https://www.pinterest.co.kr/pin/556476097694093001/)|
 
+### 코드 출처
+|제목|용도|링크|
+|---|---|---|
+|Easing Functions for Unity3D|가감속 함수|[GitHub Gist](https://gist.github.com/cjddmut/d789b9eb78216998e95c)|
 ## 2. 참고사항
 
 히트사운드는 저작권 우려상 뺐기 때문에 임의의 효과음을 구하셔서 직접 HitsoundPlayer 스크립트에 대입하셔야 합니다.
