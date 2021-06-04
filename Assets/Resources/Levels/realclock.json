@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "artistName": "",
+        "musicName": "",
+        "songName": "Real Clock",
+        "bpm": 60,
+        "pitch": 1,
+        "offset": 0,
+        "backgroundName": "",
+        "anglePerBeat": 360
+    },
+    "notes": [
+        {"offset":"4/1"},
+        {"offset":"8/1"}
+    ],
+    "events": [
+        {"offset":"3/1", "type": "stop", "duration": "1/1"},
+        {"offset":"3/1", "type": "speedChange", "speed": -360},
+        {"offset":"7/1", "type": "stop", "duration": "100/1"}
+    ]
+}

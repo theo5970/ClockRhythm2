@@ -1,0 +1,31 @@
+{
+    "settings": {
+        "artistName": "아티스트이름",
+        "songName": "곡이름",
+        "bpm": 240,
+        "pitch": 1,
+        "offset": 88.55,
+        "anglePerBeat": 90
+    },
+    "notes": [
+        {"offset": "1/4"},
+        {"offset": "2/4"},
+        {"offset": "3/4"},
+        {"offset": "4/4"},
+        {"offset": "5/4"},
+        {"offset": "6/4"},
+        {"offset": "7/4"},
+        {"offset": "8/4"},
+        {"offset": "9/4"},
+        {"offset": "10/4"},
+        {"offset": "11/4"},
+        {"offset": "12/4"},
+        {"offset": "13/4"},
+        {"offset": "14/4"},
+        {"offset": "15/4"},
+        {"offset": "16/4"}
+    ],
+    "events": [
+
+    ]
+}

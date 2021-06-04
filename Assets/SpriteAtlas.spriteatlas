@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: c28e15ed023dd11489ceb1267b4933e9, type: 3}
+    - {fileID: 21300000, guid: c560d5af8b614104793d4d9d67b3d838, type: 3}
+    - {fileID: 21300000, guid: 2a8a463536d2e8c45a68267579c8014b, type: 3}
+    - {fileID: 21300000, guid: c8338ace3623d5d4b98ed7e317a3d779, type: 3}
+    - {fileID: 21300000, guid: e9c5391a83ac8514bba4264e4f6d7c84, type: 3}
+    - {fileID: 21300000, guid: 9ddcb55899d7dc74cb55a808fad44d85, type: 3}
+    - {fileID: 21300000, guid: be1c4dce24c76ad458ff9bc04fb01d31, type: 3}
+    - {fileID: 21300000, guid: d21e3d87e16c1e1499bc901abd75062f, type: 3}
+    - {fileID: 21300000, guid: a6a5954d964625e4485c9adfeb6ca0a2, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2a8a463536d2e8c45a68267579c8014b, type: 3}
+  - {fileID: 21300000, guid: d21e3d87e16c1e1499bc901abd75062f, type: 3}
+  - {fileID: 21300000, guid: 9ddcb55899d7dc74cb55a808fad44d85, type: 3}
+  - {fileID: 21300000, guid: e9c5391a83ac8514bba4264e4f6d7c84, type: 3}
+  - {fileID: 21300000, guid: a6a5954d964625e4485c9adfeb6ca0a2, type: 3}
+  - {fileID: 21300000, guid: c28e15ed023dd11489ceb1267b4933e9, type: 3}
+  - {fileID: 21300000, guid: c8338ace3623d5d4b98ed7e317a3d779, type: 3}
+  - {fileID: 21300000, guid: be1c4dce24c76ad458ff9bc04fb01d31, type: 3}
+  - {fileID: 21300000, guid: c560d5af8b614104793d4d9d67b3d838, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Note
+  - Miss
+  - Good
+  - Bad
+  - Perfect
+  - Circle
+  - Square
+  - TruePerfect
+  - Clock
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
